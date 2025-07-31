@@ -1,0 +1,9 @@
+iso_code,continent,location,date_current,total_cases,total_deaths,total_vaccinations,people_vaccinated,median_age,age_65_older,age_70_older,cardiovasc_death_rate,diabetes_prevalence
+IND,Asia,India,1/15/2021,10500000,150000,2000000,1800000,28.4,6.5,3.2,250,8.9
+USA,North America,United States,1/15/2021,24000000,400000,15000000,12000000,38.5,16,9.5,200,10.5
+BRA,South America,Brazil,1/15/2021,8500000,210000,500000,450000,33.5,8.9,5,230,9.8
+GBR,Europe,United Kingdom,1/15/2021,3500000,95000,2000000,1800000,40.5,18.5,12.4,180,7.4
+ISR,Asia,Israel,1/15/2021,600000,4500,300000,250000,30.4,12,7,170,6.2
+JPN,Asia,Japan,1/15/2021,300000,5000,250000,200000,48.4,28,20,160,5.5
+CHN,Asia,China,1/15/2021,95000,4800,1000000,900000,38.4,11,6.8,150,6.4
+ZAF,Africa,South Africa,1/15/2021,1200000,35000,50000,40000,27.6,5.4,2.5,220,7.8
